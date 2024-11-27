@@ -26,7 +26,8 @@ print(solution)
 
 
 ## Output:
-![Screenshot (41)](https://github.com/user-attachments/assets/4b90a538-9f1b-468f-9147-faa9622f0ed1)
+![Screenshot 2024-11-27 141149](https://github.com/user-attachments/assets/026157aa-7709-436b-bc0d-e2d1fd6feaae)
+
 
 
 ## Result:
